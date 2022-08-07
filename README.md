@@ -1,3 +1,6 @@
+![TheTreeThatGrows Banner](https://raw.githubusercontent.com/TheTreeThatGrows/TheTreeThatGrows/master/assets/github-header-image.png)
+
+___ 
 <h2> Hey there! I'm TheTreeThatGrows.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
