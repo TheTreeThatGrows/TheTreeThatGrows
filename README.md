@@ -1,5 +1,5 @@
 
-![Header](./github-header.png)
+![Header](./github-header-image.png)
 ___ 
 <h2> Hey there! I'm TheTreeThatGrows.</h2>
 
