@@ -6,7 +6,7 @@ ___
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Learning & Exploring new Technologies and Developing Websites.
-- 🎓 &nbsp; Bachelor Degree on Informationtechnology at Oslo Metropolitan University.
+- 🎓 &nbsp; Bachelor Degree on Informationtechnology.
 - 💼 &nbsp; Currently looking for a job as a Frontend Development.
 - 🌱 &nbsp; Learning more about Frameworks and Web Design.
 - ✍️ &nbsp; Pursuing ✈️Aviation and 🏹Archery as hobbies.
