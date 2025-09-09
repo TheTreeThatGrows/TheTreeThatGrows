@@ -1,15 +1,6 @@
 
 ![Header](./github-banner.png)
 ___ 
-<h2> Hey there! I'm TheTreeThatGrows.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Learning & Exploring new Technologies and Developing Websites.
-- 🎓 &nbsp; Bachelor Degree on Informationtechnology.
-- 💼 &nbsp; Currently looking for a job as a Frontend Development.
-- 🌱 &nbsp; Learning more about Frameworks and Web Design.
-- ✍️ &nbsp; Pursuing ✈️Aviation and 🏹Archery as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
